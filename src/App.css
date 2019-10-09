@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.avatar {
+  height: 350px;
+  max-width: 450px;
+  border-radius: 5%;
+  box-shadow: 0 0 2px white;
+}
+
+.font {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.title {
+  font-size: 2.5em;
+}
